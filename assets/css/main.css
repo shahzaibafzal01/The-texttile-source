@@ -662,8 +662,8 @@ h6 {
   background-color: var(--accent-color);
   border-radius: 50%;
   animation-timing-function: cubic-bezier(0, 1, 1, 0);
-  position: absolute;
-  left: 50%;
+  position: static;
+  margin: 0 6px;
 }
 
 #preloader div:nth-child(1) {
