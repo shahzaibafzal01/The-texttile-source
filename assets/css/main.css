@@ -219,7 +219,7 @@ h6 {
 }
 
 .header .logo img {
-  max-height: 36px;
+  max-height: 58px;
   margin-right: 8px;
   transition: max-height 0.3s ease;
 }
