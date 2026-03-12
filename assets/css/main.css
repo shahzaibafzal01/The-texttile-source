@@ -232,6 +232,12 @@ h6 {
   transition: font-size 0.3s ease;
 }
 
+@media (max-width: 575.98px) {
+  .header .logo img {
+    max-height: 40px;
+  }
+}
+
 /* Disable Bootstrap sticky-top on header; nav bar (branding) uses position: sticky instead */
 .header.sticky-top {
   position: static;
