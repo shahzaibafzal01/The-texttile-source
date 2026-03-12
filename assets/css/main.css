@@ -235,6 +235,7 @@ h6 {
 @media (max-width: 575.98px) {
   .header .logo img {
     max-height: 40px;
+    margin-left: 5px;
   }
 }
 
